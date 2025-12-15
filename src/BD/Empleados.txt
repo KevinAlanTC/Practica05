@@ -1,0 +1,11 @@
+1. Nombre: Elena, Correo: correo@ejemplo.com, Rol: Empleado
+2. Nombre: Miguel, Correo: correo@ejemplo.com, Rol: Empleado
+3. Nombre: Sofia, Correo: correo@ejemplo.com, Rol: Empleado
+4. Nombre: Pedro, Correo: correo@ejemplo.com, Rol: Empleado
+5. Nombre: Laura, Correo: correo@ejemplo.com, Rol: Empleado
+6. Nombre: Luisa, Correo: correo@ejemplo.com, Rol: Empleado
+7. Nombre: Anabel, Correo: correo@ejemplo.com, Rol: Empleado
+8. Nombre: Carlos, Correo: correo@ejemplo.com, Rol: Empleado
+9. Nombre: María, Correo: correo@ejemplo.com, Rol: Empleado
+10. Nombre: Juanito, Correo: correo@ejemplo.com, Rol: Empleado
+11. Nombre: Roberto, Correo: correo@ejemplo.com, Rol: Empleado
