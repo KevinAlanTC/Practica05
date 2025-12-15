@@ -19,7 +19,7 @@ El programa principal (`Main`) recibe un conjunto de nombres, crea objetos `Empl
 ## Instrucciones de ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/KevinAlanTC/practica05.git
+   git clone https://github.com/KevinAlanTC/Practica05.git
    ```
 2. Verificar la estructura de directorios:
   ```
